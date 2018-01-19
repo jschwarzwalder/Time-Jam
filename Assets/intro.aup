@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="intro_data" version="1.3.0" audacityversion="2.1.2" sel0="56.1138129813" sel1="56.1138129813" vpos="0" h="0.0000000000" zoom="4.2235590028" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="TRACKNUMBER" value="2"/>
+		<tag name="ALBUM" value="Time Jam"/>
+		<tag name="ARTIST" value="Steve"/>
+	</tags>
+	<wavetrack name="intro" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="849026">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0000d0c.auf" aliasfile="C:\Users\Paul\Documents\GitHub\Virtual Field Trip\Assets\intro.wav" aliasstart="0" aliaslen="262144" aliaschannel="0" min="-0.2341" max="0.24884" rms="0.036984"/>
+				</waveblock>
+				<waveblock start="262144">
+					<pcmaliasblockfile summaryfile="e0000327.auf" aliasfile="C:\Users\Paul\Documents\GitHub\Virtual Field Trip\Assets\intro.wav" aliasstart="262144" aliaslen="262144" aliaschannel="0" min="-0.329132" max="0.356934" rms="0.051695"/>
+				</waveblock>
+				<waveblock start="524288">
+					<pcmaliasblockfile summaryfile="e0000b01.auf" aliasfile="C:\Users\Paul\Documents\GitHub\Virtual Field Trip\Assets\intro.wav" aliasstart="524288" aliaslen="262144" aliaschannel="0" min="-0.328674" max="0.34137" rms="0.049078"/>
+				</waveblock>
+				<waveblock start="786432">
+					<pcmaliasblockfile summaryfile="e0000d53.auf" aliasfile="C:\Users\Paul\Documents\GitHub\Virtual Field Trip\Assets\intro.wav" aliasstart="786432" aliaslen="62594" aliaschannel="0" min="-0.201111" max="0.186584" rms="0.025517"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="30.30619435">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="988673">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0000b57.auf" aliasfile="C:\Users\Paul\Documents\GitHub\Virtual Field Trip\Assets\blacksmith.wav" aliasstart="0" aliaslen="262144" aliaschannel="0" min="-0.301514" max="0.338745" rms="0.035548"/>
+				</waveblock>
+				<waveblock start="262144">
+					<pcmaliasblockfile summaryfile="e0000c31.auf" aliasfile="C:\Users\Paul\Documents\GitHub\Virtual Field Trip\Assets\blacksmith.wav" aliasstart="262144" aliaslen="262144" aliaschannel="0" min="-0.360077" max="0.382568" rms="0.038627"/>
+				</waveblock>
+				<waveblock start="524288">
+					<pcmaliasblockfile summaryfile="e000015f.auf" aliasfile="C:\Users\Paul\Documents\GitHub\Virtual Field Trip\Assets\blacksmith.wav" aliasstart="524288" aliaslen="262144" aliaschannel="0" min="-0.33432" max="0.34787" rms="0.054253"/>
+				</waveblock>
+				<waveblock start="786432">
+					<pcmaliasblockfile summaryfile="e000073a.auf" aliasfile="C:\Users\Paul\Documents\GitHub\Virtual Field Trip\Assets\blacksmith.wav" aliasstart="786432" aliaslen="202241" aliaschannel="0" min="-0.310547" max="0.453125" rms="0.041489"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="intro" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="849026">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e000053d.auf" aliasfile="C:\Users\Paul\Documents\GitHub\Virtual Field Trip\Assets\intro.wav" aliasstart="0" aliaslen="262144" aliaschannel="1" min="-0.234161" max="0.248688" rms="0.036984"/>
+				</waveblock>
+				<waveblock start="262144">
+					<pcmaliasblockfile summaryfile="e0000a91.auf" aliasfile="C:\Users\Paul\Documents\GitHub\Virtual Field Trip\Assets\intro.wav" aliasstart="262144" aliaslen="262144" aliaschannel="1" min="-0.329041" max="0.356903" rms="0.051695"/>
+				</waveblock>
+				<waveblock start="524288">
+					<pcmaliasblockfile summaryfile="e0000f38.auf" aliasfile="C:\Users\Paul\Documents\GitHub\Virtual Field Trip\Assets\intro.wav" aliasstart="524288" aliaslen="262144" aliaschannel="1" min="-0.328674" max="0.341278" rms="0.049078"/>
+				</waveblock>
+				<waveblock start="786432">
+					<pcmaliasblockfile summaryfile="e00008bd.auf" aliasfile="C:\Users\Paul\Documents\GitHub\Virtual Field Trip\Assets\intro.wav" aliasstart="786432" aliaslen="62594" aliaschannel="1" min="-0.20105" max="0.186676" rms="0.025517"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="30.30619435">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="988673">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0000aef.auf" aliasfile="C:\Users\Paul\Documents\GitHub\Virtual Field Trip\Assets\blacksmith.wav" aliasstart="0" aliaslen="262144" aliaschannel="1" min="-0.301544" max="0.338715" rms="0.035548"/>
+				</waveblock>
+				<waveblock start="262144">
+					<pcmaliasblockfile summaryfile="e0000dab.auf" aliasfile="C:\Users\Paul\Documents\GitHub\Virtual Field Trip\Assets\blacksmith.wav" aliasstart="262144" aliaslen="262144" aliaschannel="1" min="-0.360138" max="0.38266" rms="0.038627"/>
+				</waveblock>
+				<waveblock start="524288">
+					<pcmaliasblockfile summaryfile="e0000e28.auf" aliasfile="C:\Users\Paul\Documents\GitHub\Virtual Field Trip\Assets\blacksmith.wav" aliasstart="524288" aliaslen="262144" aliaschannel="1" min="-0.334381" max="0.347778" rms="0.054253"/>
+				</waveblock>
+				<waveblock start="786432">
+					<pcmaliasblockfile summaryfile="e0000078.auf" aliasfile="C:\Users\Paul\Documents\GitHub\Virtual Field Trip\Assets\blacksmith.wav" aliasstart="786432" aliaslen="202241" aliaschannel="1" min="-0.310577" max="0.453217" rms="0.041489"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
